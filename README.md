@@ -17,10 +17,10 @@
 <h2>🔎 How to Install:</h2>
 <p>1. Download the newest Generator.zip from the Releases Page</p>
 <h3>For Chrome:</h3>
-1. Go to `chrome://extensions/`
-2. Check the **Developer mode** box in the top right
-3. Unzip Generator.zip
-4. Press **Load unpacked extension** and select the `Generator` Folder
+1. Go to `chrome://extensions/` <br>
+2. Check the **Developer mode** box in the top right <br>
+3. Unzip Generator.zip <br>
+4. Press **Load unpacked extension** and select the `Generator` Folder <br>
 <h2>🛡️ License:</h2>
 
 This project is licensed under the MIT License
